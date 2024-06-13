@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import TicTacToe from "../../Assets/Projects/TictactoePicture.png";
 import Portfolio from "../../Assets/Projects/Portfolio.png";
 import StudentSurvey from "../../Assets/Projects/StudentSurvey.png";
+import FrequentFlyer from "../../Assets/Projects/FrequentFlyer.png";
 
 function Projects() {
   return (
@@ -47,6 +48,15 @@ function Projects() {
 for prospective students. Integrated RESTful APIs for efficient form submissions and data retrieval. Employed JPA for 
 robust and scalable database interactions. "
               ghLink="https://github.com/Mamidi-Anjali/ProspectiveStudentFeedbackApplication"
+            />
+          </Col>
+          <Col  xs={6} lg={4} className="project-card">
+            <ProjectCard
+              imgPath={FrequentFlyer}
+              isBlog={false}
+              title="Frequent Flyer Program: Database and Application Development"
+              description="Designed ER diagrams and translated them into relational schemas for a Frequent Flyer database. Wrote SQL queries and developed a Java application using JDBC. Implemented a 3-tier enterprise model with server-side Java Servlets and JSPs, and an Android client app for a complete end-to-end database application."
+              ghLink="https://github.com/Mamidi-Anjali/FrequentFlyerApplication"
             />
           </Col>
 {/* 
