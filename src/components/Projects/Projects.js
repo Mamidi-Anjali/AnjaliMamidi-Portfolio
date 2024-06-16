@@ -26,6 +26,7 @@ function Projects() {
               title="TIC-TAC-TOE"
               description="This project is a web-based implementation of the classic Tic-Tac-Toe game using React js. The game allows two players to take turns placing their respective markers (crosses and circles) on a 3x3 grid. The first player to align three of their markers horizontally, vertically, or diagonally wins the game. The game includes a simple user interface with interactive elements and provides feedback for game actions."
               ghLink="https://github.com/Mamidi-Anjali/TIC-TAC-TOE"
+              demoLink ="https://tictactoe-game-website.netlify.app/"
             />
           </Col>
 
@@ -36,6 +37,7 @@ function Projects() {
               title="Anjali Mamidi - Portfolio"
               description="This personal portfolio website is a showcase of my skills, projects, and experiences as a full-stack web developer. Developed using React.js, the website features a modern, responsive design and provides detailed information about my background, technical expertise, and accomplishments."
               ghLink="https://github.com/Mamidi-Anjali/AnjaliMamidi-Portfolio"
+              demoLink ="https://anjali-mamidi.netlify.app/"
             />
           </Col>
 

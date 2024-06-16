@@ -3,6 +3,7 @@ const TechStack = {
     { name: 'Java', level: 5 },
     { name: 'Python', level: 4 },
     { name: 'C', level: 3 },
+    
   ],
   Frameworks: [
     { name: 'React js', level: 4 },
@@ -33,7 +34,7 @@ const TechStack = {
     { name: 'ECLIPSE', level: 5 },
   ],
   Other: [
-    { name: 'Communication', level: 4 },
+    { name: 'Communication', level: 5 },
     { name: 'Teamwork', level: 5 },
   ],
 };

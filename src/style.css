@@ -604,7 +604,7 @@ button:focus {
   overflow: hidden !important;
   box-shadow: 0 4px 4px 5px #4578c0  !important;
 }
-
+/* 
 .blog-card {
   padding-top: 50px !important;
   padding-bottom: 50px !important;
@@ -634,7 +634,7 @@ button:focus {
   transform: scale(1.02) !important;
   overflow: hidden !important;
   box-shadow: 0 3px 3px 5px #4578c0  !important;
-}
+} */
 
 .card-img-top {
   padding: 20px !important;
@@ -652,6 +652,7 @@ button:focus {
   color: #fff !important;
   background-color: #4578c0 !important;
   border-color: #4578c0  !important;
+  width: 150px;
 }
 
 .btn-primary:hover {

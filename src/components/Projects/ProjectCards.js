@@ -2,7 +2,8 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 // import { CgWebsite } from "react-icons/cg";
-import { BsGithub } from "react-icons/bs";
+import { BsGithub, BsEye } from "react-icons/bs";
+// import { View } from "@react-pdf/renderer";
 
 function ProjectCards(props) {
   return (
@@ -13,12 +14,19 @@ function ProjectCards(props) {
         <Card.Text className="flex-grow-1" style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
-        <Button variant="primary" href={props.ghLink} target="_blank">
-          <BsGithub /> &nbsp;
-          {props.isBlog ? "Blog" : "GitHub"}
-        </Button>
-        {"\n"}
-        {"\n"}
+        <div>
+          <Button variant="primary" href={props.ghLink} target="_blank">
+            <BsGithub /> &nbsp; {"GitHub"}
+            {/* {props.isBlog ? "Blog" : "GitHub"} */}
+          </Button>
+          
+          {props.demoLink && (
+            <Button variant="primary" href={props.demoLink} target="_blank" style={{ marginLeft: "10px" }}>
+          <BsEye /> &nbsp;
+          {"LiveDemo"}
+          </Button>
+          )}
+        </div>
 
         {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
 
