@@ -6,6 +6,7 @@ import TicTacToe from "../../Assets/Projects/TictactoePicture.png";
 import Portfolio from "../../Assets/Projects/Portfolio.png";
 import StudentSurvey from "../../Assets/Projects/StudentSurvey.png";
 import FrequentFlyer from "../../Assets/Projects/FrequentFlyer.png";
+import MonthlyTasks from "../../Assets/Projects/MonthlyTasks.png";
 
 function Projects() {
   return (
@@ -19,6 +20,16 @@ function Projects() {
           Here are a few projects I've worked on.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Col xs={6} lg={4} className="project-card">
+            <ProjectCard
+              imgPath={MonthlyTasks}
+              isBlog={false}
+              title="Monthly Tasks Planner"
+              description="The website is used to plan and track the progress of the monthly tasks. It allows users to create a task ,edit and delete it. The created tasks are categorized based on month and displayed. The frontend of the application is developed using React JS and the backend of the application is developed using JAVA and Springboot"
+              ghLink="https://github.com/Mamidi-Anjali/MonthlyChallengeApplication"
+            />
+          </Col>
+
           <Col xs={6} lg={4} className="project-card">
             <ProjectCard
               imgPath={TicTacToe}

@@ -10,7 +10,7 @@ function ProjectCards(props) {
     <Card className="project-card-view  h-100">
       <Card.Img variant="top" src={props.imgPath} alt="card-img" style={{height:"225px"}}/>
       <Card.Body className="d-flex flex-column">
-        <Card.Title>{props.title}</Card.Title>
+        <Card.Title style={{backgroundColor:"#36234a"}}>{props.title}</Card.Title>
         <Card.Text className="flex-grow-1" style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
