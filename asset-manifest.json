@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/AnjaliMamidi-Portfolio/static/css/main.1df66232.css",
+    "main.js": "/AnjaliMamidi-Portfolio/static/js/main.dce9704d.js",
+    "static/js/415.4d6acbeb.chunk.js": "/AnjaliMamidi-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/AnjaliMamidi-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/problem_solving_basic.pdf": "/AnjaliMamidi-Portfolio/static/media/problem_solving_basic.5b3139fde8474976c0c0.pdf",
+    "static/media/python_basic.pdf": "/AnjaliMamidi-Portfolio/static/media/python_basic.4453d6ce9ead3c7e8f55.pdf",
+    "static/media/MonthlyTasks.png": "/AnjaliMamidi-Portfolio/static/media/MonthlyTasks.890ca4e975570605ffd1.png",
+    "static/media/ProblemSolvingPic.png": "/AnjaliMamidi-Portfolio/static/media/ProblemSolvingPic.ce1dfdd3409c9a3e3edd.png",
+    "static/media/PythonPic.png": "/AnjaliMamidi-Portfolio/static/media/PythonPic.c527b9fd05f5c6794c41.png",
+    "static/media/Oracle-Java-SE17.pdf": "/AnjaliMamidi-Portfolio/static/media/Oracle-Java-SE17.7254d210a95066e8fccf.pdf",
+    "static/media/Portfolio.png": "/AnjaliMamidi-Portfolio/static/media/Portfolio.b2f5ecd02ebcdba65089.png",
+    "static/media/Oracle.png": "/AnjaliMamidi-Portfolio/static/media/Oracle.af421589b9c8afa3f450.png",
+    "static/media/StudentSurvey.png": "/AnjaliMamidi-Portfolio/static/media/StudentSurvey.142e53e1126cbf71f118.png",
+    "static/media/BootstrapPic.png": "/AnjaliMamidi-Portfolio/static/media/BootstrapPic.ce89a93c4494587bc0da.png",
+    "static/media/BOOTSTRAP.pdf": "/AnjaliMamidi-Portfolio/static/media/BOOTSTRAP.79106a6e86873b3b37cf.pdf",
+    "static/media/AnjaliPicture.png": "/AnjaliMamidi-Portfolio/static/media/AnjaliPicture.e39425a280faa3295801.png",
+    "static/media/ResumeAnjaliMamidi.pdf": "/AnjaliMamidi-Portfolio/static/media/ResumeAnjaliMamidi.56a33549e1d53baf12f8.pdf",
+    "static/media/ReactPic.png": "/AnjaliMamidi-Portfolio/static/media/ReactPic.fce39219f8d57fcd3638.png",
+    "static/media/React.pdf": "/AnjaliMamidi-Portfolio/static/media/React.c30c0a3a4a97853b67ca.pdf",
+    "static/media/FrequentFlyer.png": "/AnjaliMamidi-Portfolio/static/media/FrequentFlyer.f9fd9140741b90f0f14e.png",
+    "static/media/home-bg-img.jpg": "/AnjaliMamidi-Portfolio/static/media/home-bg-img.e449fcd0a3d990c1d12f.jpg",
+    "static/media/pre.svg": "/AnjaliMamidi-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/AnjaliMamidi-Portfolio/index.html",
+    "main.1df66232.css.map": "/AnjaliMamidi-Portfolio/static/css/main.1df66232.css.map",
+    "main.dce9704d.js.map": "/AnjaliMamidi-Portfolio/static/js/main.dce9704d.js.map",
+    "415.4d6acbeb.chunk.js.map": "/AnjaliMamidi-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/AnjaliMamidi-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1df66232.css",
+    "static/js/main.dce9704d.js"
+  ]
+}
